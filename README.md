@@ -33,5 +33,5 @@ Welcome to my GitHub profile! I'm a passionate [Your Role — e.g., Software Dev
 
 ---
 ⭐️ From [github-username](https://github.com/Rajat02-dev)
-   From [email](https://mail.google.com/mail/u/0/#inbox)
+   From [email](https://gmail.com//rajatyevale2@gmail.com)
 
