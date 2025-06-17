@@ -32,5 +32,5 @@ Welcome to my GitHub profile! I'm a passionate [Your Role — e.g., Software Dev
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome)](https://yourportfolio.com)
 
 ---
-⭐️ From [your-github-username](https://github.com/your-github-username)
+⭐️ From [your-github-username](https://github.com/Rajat02-dev)
 
