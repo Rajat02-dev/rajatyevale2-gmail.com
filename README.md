@@ -1,7 +1,7 @@
 # rajatyevale2-gmail.com
 I am rajat yevale, who is passionate about computer science and is going through a discipline shift from civil to computer science
 
-# 👋 Hi there, I'm [Rajat yevale]!
+# 👋 Hi there, I'm [Rajat yevale](https://linktr.ee/rajat0209)
 
 Welcome to my GitHub profile! I'm a passionate [Your Role — e.g., Software Developer, Data Scientist, etc.] who loves building cool things and solving interesting problems with code.
 
