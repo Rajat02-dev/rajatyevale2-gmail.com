@@ -27,11 +27,11 @@ Welcome to my GitHub profile! I'm a passionate [Your Role — e.g., Software Dev
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/RAJATYEVALE)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome)](https://yourportfolio.com)
 
 ---
 ⭐️ From [github-username](https://github.com/Rajat02-dev)
-   From [email](https://gmail.com//rajatyevale2@gmail.com)
+   From [email](https://gmail.com/rajatyevale2@gmail.com)
 
